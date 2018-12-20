@@ -19,7 +19,7 @@ public class ForEachPractice {
 
         strings.forEach(c1);
         strings.forEach(c1.andThen(c2));
-        System.out.println("Size of results" + results.size());
+        System.out.println("Size of results: " + results.size());
 
     }
 }
