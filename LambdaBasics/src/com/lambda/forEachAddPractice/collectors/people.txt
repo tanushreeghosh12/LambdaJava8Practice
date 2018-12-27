@@ -1,0 +1,14 @@
+Tanu 30
+Naitik 20
+Shalini 25
+Arun 15
+Sunil 35
+Anu 40
+Aarav 10
+Anita 45
+Ravi 50
+Pranav 55
+Amit 15
+Shalu 10
+Abhinav 25
+Nikita 25
